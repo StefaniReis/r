@@ -1,0 +1,48 @@
+*{
+
+margin: 0;
+padding: 0;
+
+}
+.header{
+
+  background-color: rgb(236, 248, 237);
+  height: 70px;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+}
+
+.main{
+  background-color: rgba(212, 224, 159, 0.527);
+  height: 80px;
+
+}
+.footer {
+ background-color: rgb(228, 248, 233);
+height: 80px;
+}
+div{
+  background-color: rgb(242, 255, 247);
+  width: 230px;
+  height: 100px;
+  display: inline-block
+  
+}
+.container-a{
+  background-color: rgb(0, 255, 115);
+  height: 70px;
+}
+.container-b{
+  background-color: rgb(161, 253, 200);
+}
+.container-c{
+  background-color: blue;
+  height: 70px;
+  display: flex;
+}
+.container-d{
+  background-color:rgb(7, 28, 211) ;
+  height: 70px;
+  display: flex;
+}
